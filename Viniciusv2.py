@@ -43,7 +43,7 @@ banner = r"""
                            HIGH SPEED OBFUSCATOR
                         ADVANCED VINICIUS OBFUSCATOR
 
-                    }__VINICIUS__{ 
+                   __VINICIUS__
                   Obfuscator: Vinicius 
                   Admin: Nguyen Nhat Nam Anh 
                   Banner: VINICIUS 
